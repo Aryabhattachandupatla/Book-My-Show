@@ -1,4 +1,3 @@
-**Clone of Book-My-Show**
 A clone of BookMyShow would be a platform designed to facilitate booking tickets for various events such as movies, concerts, sports events, and other entertainment activities. It would likely have similar features to BookMyShow, such as:
 
 1. Event Listings: Displaying a comprehensive list of upcoming events categorized by type, date, and location.
