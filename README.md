@@ -7,3 +7,7 @@ A clone of BookMyShow would be a platform designed to facilitate booking tickets
 5. User Accounts: Providing personalized accounts for users to manage their bookings, preferences, and payment details.
 
 Overall, a clone of BookMyShow would aim to replicate the successful features and functionalities of the original platform to provide a convenient and efficient ticket booking experience for users.
+
+
+**Language:** Java <br>
+**Framework:** Spring MVC, Spring Boot
